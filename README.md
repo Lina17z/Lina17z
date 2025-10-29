@@ -13,8 +13,8 @@
 ---
 
 ### 🪄 My GitHub Stats
-![Lina's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Lina's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lina17z&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lina17z&layout=compact&theme=tokyonight)
 
 ---
 
